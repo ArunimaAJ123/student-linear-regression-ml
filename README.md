@@ -1,8 +1,7 @@
 # Student Performance Prediction using Linear Regression
 
 ## Project Description
-This project predicts student performance using a Linear Regression model.
-The model achieved an accuracy (R² score) of 72%.
+Built a Linear Regression model to predict student performance using a Kaggle dataset, achieving an R² score of 0.72 after data preprocessing and feature selection.
 
 ## Dataset
 The dataset was taken from Kaggle and contains student-related data.
